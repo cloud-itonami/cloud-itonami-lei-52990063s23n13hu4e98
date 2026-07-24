@@ -1,4 +1,6 @@
 {:company/legal-name "Deutsche Bahn AG"
  :company/lei "52990063S23N13HU4E98"
  :company/jurisdiction "DE"
- :company/website "https://www.bahn.de"}
+ :company/website "https://www.bahn.de"
+ :company/contact-email "fahrkartenservice@bahn.de"
+ :company/contact-email-note "general ticket/customer-service contact published on the company's own Hilfe/Kontakt page"}
